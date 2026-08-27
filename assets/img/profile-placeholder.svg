@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 360" width="360" height="360" role="img" aria-label="프로필 사진 자리">
+  <!-- 반투명 회색이라 라이트/다크 어느 배경에서도 자연스럽게 얹힌다. 실제 사진으로 교체할 것. -->
+  <rect width="360" height="360" rx="24" fill="#808894" fill-opacity="0.16" />
+  <g fill="#808894" fill-opacity="0.38">
+    <circle cx="180" cy="146" r="52" />
+    <path d="M180 214c-52 0-94 34-94 76v46h188v-46c0-42-42-76-94-76z" />
+  </g>
+</svg>
